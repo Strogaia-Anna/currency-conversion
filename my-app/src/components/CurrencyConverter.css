@@ -1,0 +1,33 @@
+.page {
+    color: black;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-div{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.text {
+    height: 50px;
+    font-size: 32px
+}
+
+.converter {
+    background-color: rgba(206, 126, 52, 0.555);
+    height: 50px;
+}
+
+.result {
+    width: 400px;
+    height: 50px;
+    background-color: rgba(206, 126, 52, 0.555);
+    color: black;
+    margin-top: 15px;
+}
